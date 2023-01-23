@@ -1,8 +1,8 @@
-**Front-End Coding Test**
+##Front-End Coding Test
 
 Thanks for taking the time to try out our coding challenge. Since we don't do a lot of whiteboarding during the interview process we've found take-home problems to be the best way for you to show us your skills. This gives you the chance to think about the problem, solve it when you feel comfortable, and focus on the areas you think are important. This challenge should take you 3 - 4 hours on the keyboard, but we encourage you to read the problem description and take some time to think about your solution before you dive into it :)
 
-**Overview**
+### Overview
 
 At Listella we deal with large amounts of image files associated with property listings. Each listing can have upwards of 100+ associated files and metadata. The ability to store and present these in near real-time over a web interface is extremely important. 
 
@@ -10,7 +10,7 @@ The purpose of this is for the developer to demonstrate knowledge of the React a
 
 The application should connect to the NASA API to get rover photos and metadata. (Link and Information provided in resource section) 
 
-**Scoring**
+### Scoring
 
 
 <table>
@@ -63,9 +63,8 @@ resulting output. If our automatic test suite passes, manual scoring will be use
 
 else. At Listella we care about clean, correct, safe, and efficient code.
 
-**Details**
 
-**Requirements**
+### Requirements
 
 
 
@@ -78,7 +77,7 @@ else. At Listella we care about clean, correct, safe, and efficient code.
 * Ability to horizontally scroll multiple images
 * Ability to view information of an image
 
-**Resources**
+### Resources
 
 
 
@@ -87,7 +86,7 @@ else. At Listella we care about clean, correct, safe, and efficient code.
 * (NextJS)[[https://nextjs.org/](https://nextjs.org/)]
 * Figma designs [[https://www.figma.com/file/ascD0ddGr0Ax2EXo256qyJ/NASA?node-id=0%3A1&t=XZtItwkJ0G4eHYMc-1](https://www.figma.com/file/ascD0ddGr0Ax2EXo256qyJ/NASA?node-id=0%3A1&t=XZtItwkJ0G4eHYMc-1)] password: 123lizard
 
-**Submission**
+### Submission
 
 Please fork the following repository and complete a pull request for submission. A README.md file should accompany the submission with detailed information on compilation and usage as well as any assumption made.
 
