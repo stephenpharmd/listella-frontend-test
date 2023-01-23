@@ -1,4 +1,4 @@
-##Front-End Coding Test
+## Front-End Coding Test
 
 Thanks for taking the time to try out our coding challenge. Since we don't do a lot of whiteboarding during the interview process we've found take-home problems to be the best way for you to show us your skills. This gives you the chance to think about the problem, solve it when you feel comfortable, and focus on the areas you think are important. This challenge should take you 3 - 4 hours on the keyboard, but we encourage you to read the problem description and take some time to think about your solution before you dive into it :)
 
