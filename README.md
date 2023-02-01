@@ -89,6 +89,5 @@ else. At Listella we care about clean, correct, safe, and efficient code.
 
 ### Submission
 
-Please fork the following repository and complete a pull request for submission. A README.md file should accompany the submission with detailed information on compilation and usage as well as any assumption made.
+Please fork the following repository and complete a pull request or email us a link to your repository for submission. A README.md file should accompany the submission with detailed information on compilation and usage as well as any assumption made.
 
-**_Disclaimer: Do not share this test or your response to anyone. Make sure that all repositories are private._**
