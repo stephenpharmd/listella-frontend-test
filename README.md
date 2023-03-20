@@ -6,9 +6,9 @@ Thanks for taking the time to try out our coding challenge. Since we don't do a 
 
 At Listella we deal with large amounts of image files associated with property listings. Each listing can have upwards of 100+ associated files and metadata. The ability to store and present these in near real-time over a web interface is extremely important. 
 
-The objective of this assignment is to create your own image reordering library in raw typescript, published to npm, and imported into a basic react application that allows the user to upload multiple images at a time and drag to reorder.
+The objective of this assignment is to create your own image reordering library in raw typescript, published to npm, and imported into a basic react application that allows the user to upload multiple images at a time and drag to reorder them.
 
-The "uploaded" images can just be stored in state, no need to send them to any storage bucket or api.
+The "uploaded" images can be stored with a state management tool, no need to send them to any storage bucket or api.
 
 Make sure to account for scale, how will this work with a few images vs how it works with 50+ and what are optimizations that you can make to improve performance and experience.
 
