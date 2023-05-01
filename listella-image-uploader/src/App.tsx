@@ -1,9 +1,8 @@
-import { useState } from 'react'
 import './App.css'
 import { ImageUploader } from 'react-image-upload-interface';
 import NavBar from './NavBar.tsx';
 
-const submitButtonStyle = {
+const submitButtonStyle: React.CSSProperties = {
   backgroundColor: 'rgb(56,182,255)',
   padding: '5px 10px 5px 10px',
   borderRadius: '15px',
@@ -23,7 +22,7 @@ function App() {
     <>
       <NavBar />
       <div className="App">
-        <ImageUploader Width='80vh' Height='60vh'submitButtonStyle={submitButtonStyle} handleFileSubmit={handleFileSubmit}/>
+        <ImageUploader Width='80vh' Height='60vh' submitButtonStyle={submitButtonStyle} handleFileSubmit={handleFileSubmit}/>
       </div>  
     </>
   )

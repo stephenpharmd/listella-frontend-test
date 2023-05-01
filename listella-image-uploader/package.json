@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-image-upload-interface": "^1.0.10",
+    "react-image-upload-interface": "^1.1.5-b",
     "vite-plugin-svgr": "^2.4.0"
   },
   "devDependencies": {
